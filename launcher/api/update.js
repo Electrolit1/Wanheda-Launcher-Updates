@@ -2,7 +2,7 @@ const axios = require("axios");
 
 
 const VERSION_URL =
-"https://raw.githubusercontent.com/TU-USUARIO/Wanheda-Launcher-Updates/main/version.json";
+"https://raw.githubusercontent.com/Electrolit1/Wanheda-Launcher-Updates/main/version.json";
 
 
 
