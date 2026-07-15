@@ -11,22 +11,5 @@
             "name": "fabric-api.jar",
             "type": "mod",
             "url": "https://github.com/Electrolit1/Wanheda-Launcher-Updates/raw/refs/heads/main/mods/fabric-api-0.116.13+1.21.1.jar"
-        },
-
-        {
-            "name": "aliemod.jar",
-            "type": "mod",
-            "url": ""
         }
-
-    ],
-
-
-    "resourcepack": {
-
-        "name": "WanhedaResourcepack.zip",
-        "url": ""
-
-    }
-
 }
