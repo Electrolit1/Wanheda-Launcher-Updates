@@ -1,7 +1,5 @@
-{
-    "version": "1.0.1",
-    "changelog": [
-        "Sistema de actualizaciones añadido",
-        "Mejoras del launcher"
-    ]
-}
+const launcherVersion = "1.0.0";
+
+module.exports = {
+    launcherVersion
+};
