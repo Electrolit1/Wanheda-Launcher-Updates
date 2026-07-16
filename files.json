@@ -15,7 +15,21 @@
             "name":"melody_fabric_1.0.10_MC_1.21.jar",
             "type":"mod",
             "url":"https://raw.githubusercontent.com/Electrolit1/Wanheda-Launcher-Updates/main/mods/melody_fabric_1.0.10_MC_1.21.jar"
-        }
+        },
+        
+        {
+            "name":"fancymenu_fabric_3.9.7_MC_1.21.1.jar",
+            "type":"mod",
+            "url":"https://raw.githubusercontent.com/Electrolit1/Wanheda-Launcher-Updates/main/mods/fancymenu_fabric_3.9.7_MC_1.21.1.jar"
+        },
+        
+        {
+            "name":"konkrete_fabric_1.9.9_MC_1.21.jar",
+            "type":"mod",
+            "url":"https://raw.githubusercontent.com/Electrolit1/Wanheda-Launcher-Updates/main/mods/konkrete_fabric_1.9.9_MC_1.21.jar"
+        }    
+    
+    
 
     ]
 }
