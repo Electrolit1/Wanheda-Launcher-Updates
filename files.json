@@ -1,24 +1,20 @@
 {
     "minecraftVersion": "1.21.1",
-
     "fabricLoader": "0.16.10",
-
     "modpackVersion": "1.0.1",
 
-    "files": [
+    "files":[
 
         {
-            "name": "fabric-api-0.116.13+1.21.1.jar",
-            "type": "mod",
-            "url": "https://raw.githubusercontent.com/Electrolit1/Wanheda-Launcher-Updates/main/mods/fabric-api-0.116.13+1.21.1.jar",
-            "hash": ""
+            "name":"fabric-api-0.116.13+1.21.1.jar",
+            "type":"mod",
+            "url":"https://raw.githubusercontent.com/Electrolit1/Wanheda-Launcher-Updates/main/mods/fabric-api-0.116.13+1.21.1.jar"
         },
 
         {
-            "name": "melody_fabric_1.0.10_MC_1.21.jar",
-            "type": "mod",
-            "url": "https://raw.githubusercontent.com/Electrolit1/Wanheda-Launcher-Updates/main/mods/melody_fabric_1.0.10_MC_1.21.jar",
-            "hash": ""
+            "name":"melody_fabric_1.0.10_MC_1.21.jar",
+            "type":"mod",
+            "url":"https://raw.githubusercontent.com/Electrolit1/Wanheda-Launcher-Updates/main/mods/melody_fabric_1.0.10_MC_1.21.jar"
         }
 
     ]
