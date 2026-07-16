@@ -31,6 +31,15 @@
             "type":"mod",
             "path":"mods",
             "url":"https://raw.githubusercontent.com/Electrolit1/Wanheda-Launcher-Updates/main/mods/konkrete_fabric_1.9.9_MC_1.21.jar"
+        },
+
+
+        {
+            "name":"fancymenu-config.zip",
+            "type":"config",
+            "path":"config",
+            "url":"AQUI_PONES_TU_LINK_DEL_ZIP"
         }
+
     ]
 }
