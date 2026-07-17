@@ -1,6 +1,6 @@
 {
     "minecraftVersion": "1.21.1",
-    "fabricLoader": "0.16.10",
+    "fabricLoader": "0.16.12",
     "modpackVersion": "1.0.3",
 
     "files":[
