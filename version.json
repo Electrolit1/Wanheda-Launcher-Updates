@@ -1,7 +1,15 @@
 {
-    "launcherVersion": "1.0.0",
+    "launcherVersion": "1.0.1",
+
     "minecraftVersion": "1.21.1",
-    "fabricVersion": "0.17.0",
+
+    "fabricVersion": "0.17.2",
+
     "modpackVersion": "1.0.4",
-    "filesVersion": "2"
+
+    "filesVersion": "2",
+
+    "download": "https://github.com/Electrolit1/Wanheda-Launcher-Updates/raw/main/Wanheda/releases/WanhedaStudio.exe.zip",
+
+    "message": "Nueva interfaz, mejoras de Fabric y optimizaciones del launcher"
 }
